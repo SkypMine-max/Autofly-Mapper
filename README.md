@@ -9,8 +9,10 @@ made using Claude Sonnet 5.5
 # Commands
 
 ```text
-/autopilot a "1st corner"
-/autopilot b "2nd corner"
+choose any y-level you want, above build height is recommended
+ 
+/autopilot a "1st corner x and z coord"
+/autopilot b "2nd corner x and z coord"
 /autopilot start
 /autopilot stop
 /autopilot spacing
