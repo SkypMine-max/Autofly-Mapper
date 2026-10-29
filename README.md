@@ -3,3 +3,5 @@ A small client-side Fabric mod for Minecraft 26.1.2. Pick two corners and it wal
 
 
 ill update the source code for the new version in the next 48h
+
+made using Claude Sonnet 5.5
