@@ -6,7 +6,9 @@ recommended to use ElytraFly (meteor client) instead of fireworks
 source code is only available for the version  v1.5.0
 made using Claude Sonnet 5.5
 
-# commands 
+# Commands
+
+```text
 /autopilot a "1st corner"
 /autopilot b "2nd corner"
 /autopilot start
@@ -14,10 +16,10 @@ made using Claude Sonnet 5.5
 /autopilot spacing
 /autopilot status
 /autopilot turnspeed
+```
 
-new versions
-old cmds+
-/autopilot elytra true
+And on newer versions, old cmds + `/autopilot elytra true`
+
 
 
 
