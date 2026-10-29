@@ -6,7 +6,6 @@ Now can use both Elytrafly and Rockets
 source code is only available for the version  V1.10.3
 made using Claude Sonnet 5.5
 
-# Commands
 
 # Area Autopilot Commands
 
