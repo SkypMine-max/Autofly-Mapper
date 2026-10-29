@@ -3,7 +3,7 @@ A small client-side Fabric mod for Minecraft 26.1.2(needs fabric api 0.155.3+26.
 
 # Important
 recommended to use ElytraFly (meteor client) instead of fireworks
-source code is only available for the version  v1.5.0
+source code is only available for the version  V1.10.3
 made using Claude Sonnet 5.5
 
 # Commands
