@@ -12,12 +12,13 @@ made using Claude Sonnet 5.5
 /autopilot start
 /autopilot stop
 /autopilot spacing
-/autopilot status 
-/autopilot turnspeed 
+/autopilot status
+/autopilot turnspeed
 
-and on newer versions 
-old cmds +
+new versions
+old cmds+
 /autopilot elytra true
+
 
 
 # updates
